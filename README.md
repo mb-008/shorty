@@ -1,6 +1,6 @@
-# shorty
+# slashy
 
-**shorty** is a modern URL shortener with support for custom domains. Shorten URLs & view the click rate statistics.
+**slashyy** is a modern URL shortener with support for custom domains. Shorten URLs & view the click rate statistics.
 
 ## Setup
 

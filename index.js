@@ -6,7 +6,7 @@ const URL = require("./models/url");
 const app = express();
 const PORT = 8001;
 
-connectToMongoDB("mongodb://localhost:27017/slashy").then(() =>
+connectToMongoDB("mongodb://localhost:27017/slashyyy").then(() =>
   console.log("Mongodb connected")
 );
 

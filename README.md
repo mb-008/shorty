@@ -6,10 +6,10 @@
 
 You need to have [Node.js](https://nodejs.org/), [Mongodb](https://www.mongodb.com/)installed.
 
-1. Clone this repository or .
+1. Clone this repository.
 2. Install dependencies: `npm install`.
-3. Run for development: `npm start`.
-4. Run for production: `npm run build` then `npm start`.
+3. Run mongodb server using mongosh or mongodb-atlas.
+4. Run for development: `npm start`.
 
 
 ## ✨ Features
